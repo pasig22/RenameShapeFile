@@ -1,0 +1,13 @@
+[general]
+name= Renombrar
+qgisMinimumVersion=3.20
+qgisMaximumVersion=3.99
+description= El plugin renombrar los productos que pertenecen a un archivo shapefile .shp.	
+about= Es un complemento de QGIS para renombrar archivos shapefile .shp.	
+category=Tool
+author= https://keyspatial.com
+email= solares.hec@gmail.com
+tags=#GIS #QGIS #PyQGIS #Geospatial #Plugins #DesarrolloSIG #Automatización
+icon= donate.png
+version=3
+experimental=False

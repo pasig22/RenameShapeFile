@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="imgBase">
+    <file>../img/rename0.png</file>
+    <file>../img/rename1.png</file>
+    <file>../img/dona.png</file>
+    <file>../img/info.png</file>
+  </qresource>
+</RCC>
