@@ -21,8 +21,17 @@ Prefijo (nuevo nombre): 'capa_rios_l'
 Salida: 'capa_rios_l.shp'
 ---
 
-## 🛠️ Instalación
+## 🛠️ Instalación 1
 
-1. Clona o descarga este repositorio:
+1. Clona este repositorio:
    ```bash
    git clone https://github.com/pasig22/RenameShapeFile/tree/master
+
+## 🛠️ Instalación 2
+1. Descarga este repositorio
+2. Copia la carpeta en tu directorio de plugins de QGIS
+3. Activa el plugin desde el panel de complementos
+---
+
+## Autor
+Desarrollado por Héc — [LinkedIn](www.linkedin.com/in/héctor-solares)
