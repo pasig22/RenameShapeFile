@@ -96,7 +96,7 @@ class DialogMain (QMainWindow):
                 "Tu ayuda me permitirá seguir creando contenido útil y compartir de forma gratuita.<br><br>"\
                 "<b>Muchas gracias por ser parte de esto</b><br><br>"\
                 "<b>¡Juntos lo hacemos posible! 🌟</b><br><br>"\
-                "<b>Cuenta:</b> 4189143295312832 <br><br>"\
+                "<b>Cuenta:</b> 4189143295312832   Banco: BANORTE <br><br>"\
                 "<b>10$😊  </b> <b>20$😊  </b> <b>50$😊</b> pesos mexicanos"
         msgINFO.setText(text)
         msgINFO.setTextFormat(Qt.RichText)
