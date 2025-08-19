@@ -23,15 +23,15 @@ Salida: 'capa_rios_l.shp'
 
 ## 🛠️ Instalación 1
 
-1. Clona este repositorio:
+1. Clona o descarga este repositorio:
    ```bash
    git clone https://github.com/pasig22/RenameShapeFile/tree/master
 
-## 🛠️ Instalación 2
-1. Descarga este repositorio
 2. Copia la carpeta en tu directorio de plugins de QGIS
+   - Windows: C:\Users\<usuario>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
+   - Linux/macOS: ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins
+
 3. Activa el plugin desde el panel de complementos
----
 
 ## Autor
 Desarrollado por Héc — [LinkedIn](www.linkedin.com/in/héctor-solares)
