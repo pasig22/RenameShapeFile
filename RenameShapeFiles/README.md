@@ -15,10 +15,10 @@ Este plugin permite renombrar automáticamente archivos shapefile '.shp' desde Q
 ---
 
 ## Ejemplo
-Selección de directorio: 'C:/ruta/por/defecto'
-Selección de archivo shapefile a renombrar: 'capa_rios.shp'
-Prefijo (nuevo nombre): 'capa_rios_l' 
-Salida: 'capa_rios_l.shp'
+- Selección de directorio: 'C:/ruta/por/defecto'
+- Selección de archivo shapefile a renombrar: 'capa_rios.shp'
+- Prefijo (nuevo nombre): 'capa_rios_l' 
+- Salida: 'capa_rios_l.shp'
 ---
 
 ## 🛠️ Instalación 1
@@ -35,4 +35,13 @@ Salida: 'capa_rios_l.shp'
 ---
 
 ## Autor
+
 Desarrollado por Héc — [LinkedIn](www.linkedin.com/in/héctor-solares)
+PyQGIS plugin developer especializado en análisis geoespacial.
+---
+
+## 🤝 Contribuciones
+¿Tienes ideas para mejorar el plugin? ¡Estoy abierto a colaboraciones! Puedes abrir un issue o enviar un pull request.
+---
+
+#QGIS #PyQGIS #GISplugins #GeospatialAutomation #OpenSource
