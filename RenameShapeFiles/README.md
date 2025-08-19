@@ -38,10 +38,12 @@ Este plugin permite renombrar automáticamente archivos shapefile '.shp' desde Q
 
 Desarrollado por Héc — [LinkedIn](www.linkedin.com/in/héctor-solares)
 PyQGIS plugin developer especializado en análisis geoespacial.
+
 ---
 
 ## 🤝 Contribuciones
 ¿Tienes ideas para mejorar el plugin? ¡Estoy abierto a colaboraciones! Puedes abrir un issue o enviar un pull request.
+
 ---
 
 #QGIS #PyQGIS #GISplugins #GeospatialAutomation #OpenSource
