@@ -34,4 +34,15 @@ Salida: 'capa_rios_l.shp'
 3. Activa el plugin desde el panel de complementos
 
 ## Autor
+
 Desarrollado por Héc — [LinkedIn](www.linkedin.com/in/héctor-solares)
+PyQGIS plugin developer especializado en análisis geoespacial.
+
+---
+
+## 🤝 Contribuciones
+¿Tienes ideas para mejorar el plugin? ¡Estoy abierto a colaboraciones! Puedes abrir un issue o enviar un pull request.
+
+---
+
+#QGIS #PyQGIS #GISplugins #GeospatialAutomation #OpenSource
